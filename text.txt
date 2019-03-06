@@ -1,3 +1,4 @@
 echo "Welcome to open text.txt"
 Step1: let remote repo to track this dir
 Step 2 make a local sub-branch-2
+Step 3 add new commit on sub-branch-2
