@@ -1,0 +1,2 @@
+echo "Welcome to open text.txt"
+Step1: let remote repo to track this dir
